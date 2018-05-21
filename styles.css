@@ -1,0 +1,22 @@
+body{background-image: url(arrow.jpg);
+    margin: 50px;
+   }
+.transBox{background-color:rgba(255, 255, 255, 0.6);
+padding: 100px;
+}
+
+a{font-size: 50;   
+}
+
+h1{font-size: 99
+}
+
+p{text-align: left;
+    font-size: 55px;
+        font-family:fantasy; 
+}
+
+img{width: 77%;
+    margin-left: 11%;
+    margin-right: 12%;
+}
